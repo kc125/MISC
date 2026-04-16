@@ -1,0 +1,78 @@
+[
+    {
+      "p_rel_url" : "kc125/MISC/Schools_1-50.csv",
+      "p_sink_folder" : "schools",
+      "p_sink_file" : "Schools_1-50.csv"
+    },
+    {
+      "p_rel_url" : "kc125/MISC/Schools_101-150.csv",
+      "p_sink_folder" : "schools",
+      "p_sink_file" : "Schools_101-150.csv"
+    },
+    {
+      "p_rel_url" : "kc125/MISC/Schools_151-200.csv",
+      "p_sink_folder" : "schools",
+      "p_sink_file" : "Schools_151-200.csv"
+    }, 
+    {
+      "p_rel_url" : "kc125/MISC/Schools_201-250.csv",
+      "p_sink_folder" : "schools",
+      "p_sink_file" : "Schools_201-250.csv"
+    }, 
+    {
+      "p_rel_url" : "kc125/MISC/Schools_251-300.csv",
+      "p_sink_folder" : "schools",
+      "p_sink_file" : "Schools_251-300.csv"
+    }, 
+    {
+      "p_rel_url" : "kc125/MISC/Schools_301-350.csv",
+      "p_sink_folder" : "schools",
+      "p_sink_file" : "Schools_301-350.csv"
+    }, 
+    {
+      "p_rel_url" : "kc125/MISC/Schools_351-400.csv",
+      "p_sink_folder" : "schools",
+      "p_sink_file" : "Schools_351-400.csv"
+    }, 
+    {
+      "p_rel_url" : "kc125/MISC/Schools_401-450.csv",
+      "p_sink_folder" : "schools",
+      "p_sink_file" : "Schools_401-450.csv"
+    },
+    {
+      "p_rel_url" : "kc125/MISC/Schools_451-500.csv",
+      "p_sink_folder" : "schools",
+      "p_sink_file" : "Schools_451-500.csv"
+    },  
+    {
+      "p_rel_url" : "kc125/MISC/Schools_501-550.csv",
+      "p_sink_folder" : "schools",
+      "p_sink_file" : "Schools_501-550.csv"
+    }, 
+    {
+      "p_rel_url" : "kc125/MISC/Schools_551-600.csv",
+      "p_sink_folder" : "schools",
+      "p_sink_file" : "Schools_551-600.csv"
+    },
+    {
+      "p_rel_url" : "kc125/MISC/Schools_601-650.csv",
+      "p_sink_folder" : "schools",
+      "p_sink_file" : "Schools_601-650.csv"
+    },
+    {
+      "p_rel_url" : "kc125/MISC/Schools_651-700.csv",
+      "p_sink_folder" : "schools",
+      "p_sink_file" : "Schools_651-700.csv"
+    },
+     {
+      "p_rel_url" : "kc125/MISC/Schools_701-750.csv",
+      "p_sink_folder" : "schools",
+      "p_sink_file" : "Schools_701-750.csv"
+    },
+    {
+      "p_rel_url" : "kc125/MISC/Schools_751-800.csv",
+      "p_sink_folder" : "schools",
+      "p_sink_file" : "Schools_751-800.csv"
+    }
+
+]
